@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>赞助墙 | 超逸の博客</title><meta name="description" content=".masked h3{             display: block;             width: 600px;             height: 60px;             &#x2F;*渐变背景*&#x2F;             background-image: -webkit-linear-gradi"><meta name="keywords" content="Vue,面试,CSDN,ES6,React,前端"><meta name="author" content="Yang Chao Yi"><meta name="copyright" content="Yang Chao Yi"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://yangchaoyi.vip/sponsorWall/"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//fonts.googleapis.com" crossorigin="crossorigin"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta property="og:type" content="website"><meta property="og:title" content="赞助墙"><meta property="og:url" content="https://yangchaoyi.vip/sponsorWall/"><meta property="og:site_name" content="超逸の博客"><meta property="og:description" content=".masked h3{             display: block;             width: 600px;             height: 60px;             &#x2F;*渐变背景*&#x2F;             background-image: -webkit-linear-gradi"><meta property="og:image" content="https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg"><meta property="article:published_time" content="2020-04-22T23:47:23.000Z"><meta property="article:modified_time" content="2020-05-22T14:53:00.765Z"><meta name="twitter:card" content="summary"><script>var activateDarkMode = function () {
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Steam游戏库 | 超逸の博客</title><meta name="description" content="游戏小呆瓜，但还是爱玩        #steam-item1 a, #steam-item1 a:hover {   text-decoration: none; }  .steam-game-tabs {   margin-bottom: 15px;   margin-top: 15px; }  .steam-game-tab {   padding: 5px; }  .steam-"><meta name="keywords" content="Vue,面试,CSDN,ES6,React,前端"><meta name="author" content="Yang Chao Yi"><meta name="copyright" content="Yang Chao Yi"><meta name="format-detection" content="telephone=no"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://yangchaoyi.vip/steam/index.md"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//fonts.googleapis.com" crossorigin="crossorigin"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="preconnect" href="//zz.bdstatic.com"/><meta property="og:type" content="website"><meta property="og:title" content="Steam游戏库"><meta property="og:url" content="https://yangchaoyi.vip/steam/index.md"><meta property="og:site_name" content="超逸の博客"><meta property="og:description" content="游戏小呆瓜，但还是爱玩        #steam-item1 a, #steam-item1 a:hover {   text-decoration: none; }  .steam-game-tabs {   margin-bottom: 15px;   margin-top: 15px; }  .steam-game-tab {   padding: 5px; }  .steam-"><meta property="og:image" content="https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png"><meta property="article:published_time" content="2020-09-02T12:35:27.327Z"><meta property="article:modified_time" content="2020-09-02T12:35:27.327Z"><meta name="twitter:card" content="summary"><script>var activateDarkMode = function () {
   document.documentElement.setAttribute('data-theme', 'dark')
   if (document.querySelector('meta[name="theme-color"]') !== null) {
     document.querySelector('meta[name="theme-color"]').setAttribute('content', '#000')
@@ -89,7 +89,7 @@ if (autoChangeMode === '1') {
   isHome: false,
   isHighlightShrink: false,
   isSidebar: false,
-  postUpdate: '2020-05-22 22:53:00'
+  postUpdate: '2020-09-02 20:35:27'
 }</script><noscript><style>
 #nav {
   opacity: 1
@@ -97,70 +97,300 @@ if (autoChangeMode === '1') {
 .justified-gallery img{
   opacity: 1
 }
-</style></noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/Hexo/css/flink.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/Hexo/css/iconfont.min.css"></head><body><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">35</div></a></div></div><div class="mobile_data_item is-center">      <div class="mobile_data_link"><a href="/tags/"><div class="headline">标签</div><div class="length_num">35</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">10</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-book"></i><span> 文章</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/box/"><i class="fa-fw fas fa-th-large"></i><span> 聚宝盒</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 娱乐</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/bangumis/"><i class="fa-fw fab fa-youtube"></i><span> 番剧</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 书单</span></a></li><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/steam/"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/sponsorWall/"><i class="fa-fw fas fa-money-check-alt"></i><span> 赞助墙</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery/"><i class="fa-fw far fa-image"></i><span> 相册</span></a></li><li><a class="site-page" href="/home/"><i class="fa-fw fab fa-phoenix-framework"></i><span> 主页</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/talk/"><i class="fa-fw fas fa-coffee"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/contact/"><i class="fa-fw far fa-comments"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><div id="web_bg" data-type="photo"></div><header class="not-index-bg" id="page-header" style="background-image: url(https://cdn.jsdelivr.net/gh/HCLonely/hclonely.github.io@1.3.9/img/Butterfly/index.webp)"><nav id="nav"><span class="pull-left" id="blog_name"><a class="blog_title" id="site-name" href="/">超逸の博客</a></span><span class="pull-right menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-book"></i><span> 文章</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/box/"><i class="fa-fw fas fa-th-large"></i><span> 聚宝盒</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 娱乐</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/bangumis/"><i class="fa-fw fab fa-youtube"></i><span> 番剧</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 书单</span></a></li><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/steam/"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/sponsorWall/"><i class="fa-fw fas fa-money-check-alt"></i><span> 赞助墙</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery/"><i class="fa-fw far fa-image"></i><span> 相册</span></a></li><li><a class="site-page" href="/home/"><i class="fa-fw fab fa-phoenix-framework"></i><span> 主页</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/talk/"><i class="fa-fw fas fa-coffee"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/contact/"><i class="fa-fw far fa-comments"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div><span class="toggle-menu close"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="page_site-info"><h1 id="site_title">赞助墙</h1></div></header><main class="layout_page" id="content-inner"><div id="page"><div id="article-container"><div class="justified-gallery"><p><img src= "/img/loading.gif" data-src="https://cdn.jsdelivr.net/npm/blog-gallery@1.0.0/1/20200206161705.webp" alt=""></p>
-          </div>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-        <style>
-        .masked h3{
-            display: block;
-            width: 600px;
-            height: 60px;
-            /*渐变背景*/
-            background-image: -webkit-linear-gradient(left, #3498db, #f47920 10%, #d71345 20%, #f7acbc 30%,
-            #ffd400 40%, #3498db 50%, #f47920 60%, #d71345 70%, #f7acbc 80%, #ffd400 90%, #3498db);
-            color: transparent; /*文字填充色为透明*/
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;          /*背景剪裁为文字，只将文字显示为背景*/
-            background-size: 200% 100%;            /*背景图片向水平方向扩大一倍，这样background-position才有移动与变化的空间*/
-            /* 动画 */
-            animation: masked-animation 4s infinite linear;
-        }
-        @keyframes masked-animation {
-            0% {
-                background-position: 0 0;   /*background-position 属性设置背景图像的起始位置。*/
-            }
-            100% {
-                background-position: -100% 0;
-            }
-        }
-        .masked p{
-            display: block;
-            width: 300px;
-            height: 30px;
-            /*渐变背景*/
-            background-image: -webkit-linear-gradient(left, #3498db, #f47920 10%, #d71345 20%, #f7acbc 30%,
-            #ffd400 40%, #3498db 50%, #f47920 60%, #d71345 70%, #f7acbc 80%, #ffd400 90%, #3498db);
-            color: transparent; /*文字填充色为透明*/
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;          /*背景剪裁为文字，只将文字显示为背景*/
-            background-size: 200% 100%;            /*背景图片向水平方向扩大一倍，这样background-position才有移动与变化的空间*/
-            /* 动画 */
-            animation: masked-animation 4s infinite linear;
-        }
-        @keyframes masked-animation {
-            0% {
-                background-position: 0 0;   /*background-position 属性设置背景图像的起始位置。*/
-            }
-            100% {
-                background-position: -100% 0;
-            }
-        }
-    </style>
-<meta name="generator" content="Hexo 4.2.0"></head>
-<body>
+</style></noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/Hexo/css/flink.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@master/Hexo/css/iconfont.min.css"></head><body><div id="mobile-sidebar"><div id="menu_mask"></div><div id="mobile-sidebar-menus"><div class="mobile_author_icon"><img class="avatar-img" src="https://cdn.jsdelivr.net/gh/Chocolate1999/cdn/img/avatar.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="mobile_post_data"><div class="mobile_data_item is-center"><div class="mobile_data_link"><a href="/archives/"><div class="headline">文章</div><div class="length_num">35</div></a></div></div><div class="mobile_data_item is-center">      <div class="mobile_data_link"><a href="/tags/"><div class="headline">标签</div><div class="length_num">35</div></a></div></div><div class="mobile_data_item is-center">     <div class="mobile_data_link"><a href="/categories/"><div class="headline">分类</div><div class="length_num">10</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-book"></i><span> 文章</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/box/"><i class="fa-fw fas fa-th-large"></i><span> 聚宝盒</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 娱乐</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/bangumis/"><i class="fa-fw fab fa-youtube"></i><span> 番剧</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 书单</span></a></li><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/steam/"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/sponsorWall/"><i class="fa-fw fas fa-money-check-alt"></i><span> 赞助墙</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery/"><i class="fa-fw far fa-image"></i><span> 相册</span></a></li><li><a class="site-page" href="/home/"><i class="fa-fw fab fa-phoenix-framework"></i><span> 主页</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/talk/"><i class="fa-fw fas fa-coffee"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/contact/"><i class="fa-fw far fa-comments"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div></div></div><div id="body-wrap"><div id="web_bg" data-type="photo"></div><header class="not-index-bg" id="page-header" style="background-image: url(https://cdn.jsdelivr.net/gh/HCLonely/hclonely.github.io@1.3.9/img/Butterfly/index.webp)"><nav id="nav"><span class="pull-left" id="blog_name"><a class="blog_title" id="site-name" href="/">超逸の博客</a></span><span class="pull-right menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fa fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-book"></i><span> 文章</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/archives/"><i class="fa-fw fa fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page" href="/tags/"><i class="fa-fw fa fa-tags"></i><span> 标签</span></a></li><li><a class="site-page" href="/categories/"><i class="fa-fw fa fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/box/"><i class="fa-fw fas fa-th-large"></i><span> 聚宝盒</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fas fa-list"></i><span> 娱乐</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/bangumis/"><i class="fa-fw fab fa-youtube"></i><span> 番剧</span></a></li><li><a class="site-page" href="/movies/"><i class="fa-fw fa fa-film"></i><span> 电影</span></a></li><li><a class="site-page" href="/books/"><i class="fa-fw fas fa-book"></i><span> 书单</span></a></li><li><a class="site-page" href="/music/"><i class="fa-fw fa fa-music"></i><span> 音乐</span></a></li><li><a class="site-page" href="/steam/"><i class="fa-fw fas fa-gamepad"></i><span> 游戏</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/sponsorWall/"><i class="fa-fw fas fa-money-check-alt"></i><span> 赞助墙</span></a></div><div class="menus_item"><a class="site-page"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down menus-expand"></i></a><ul class="menus_item_child"><li><a class="site-page" href="/gallery/"><i class="fa-fw far fa-image"></i><span> 相册</span></a></li><li><a class="site-page" href="/home/"><i class="fa-fw fab fa-phoenix-framework"></i><span> 主页</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/talk/"><i class="fa-fw fas fa-coffee"></i><span> 说说</span></a></div><div class="menus_item"><a class="site-page" href="/contact/"><i class="fa-fw far fa-comments"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fa fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fa fa-heart"></i><span> 关于</span></a></div></div><span class="toggle-menu close"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></span></span></nav><div id="page_site-info"><h1 id="site_title">Steam游戏库</h1></div></header><main class="layout_page" id="content-inner"><div id="page"><div id="article-container"><blockquote>
+    <p>游戏小呆瓜，但还是爱玩</p>
+</blockquote>
+<a href="https://steamcommunity.com/profiles/lionkk6/" target="_blank"><img src=""></a>
+<style>
+    #steam-item1 a,
+#steam-item1 a:hover {
+  text-decoration: none;
+}
 
-<div class="masked">
-    <h3>特此鸣谢，感谢各位小伙伴们の支持✿✿ヽ(°▽°)ノ✿~</h3>
-    <p>烟雨忆斜阳：20.00元</p>
-    <p>Yqifei（学弟）：1.00元</p>
-    <p>言（学弟）：1.00元</p>
-    <p>匿名用户（很多）：1.00元</p>
+.steam-game-tabs {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.steam-game-tab {
+  padding: 5px;
+}
+
+.steam-game-active {
+  background: #657b83;
+  color: #fff;
+}
+
+.steam-game-item {
+  padding-bottom: 10px;
+  position: relative;
+  clear: both;
+  min-height: 100px;
+  padding: 10px 0;
+  border-bottom: 1px #ddd solid;
+}
+
+@media screen and (max-width: 600px) {
+  .steam-game-item {
+    width: 100%;
+  }
+}
+
+.steam-game-picture {
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 188px;
+  height: 99px;
+}
+
+.steam-game-info {
+  height: 80px;
+  padding-left: 204px;
+}
+
+.steam-game-meta {
+  font-size: 12px;
+  padding-right: 10px;
+}
+
+.steam-game-pagination {
+  margin-top: 15px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.steam-game-button {
+  padding: 5px;
+  display: inline-block;
+}
+
+.steam-game-button:hover {
+  background: #657b83;
+  color: #fff;
+}
+
+.steam-game-hide {
+  display: none;
+}
+
+.steam-game-show {
+  display: block;
+}
+
+.steam-game-title {
+  font-size: 18px;
+}
+
+.steam-game-title a {
+  line-height: 1;
+  padding: 5px;
+}
+
+.steam-game-title a:hover {
+  padding: 5px;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  border: 1px solid rgba(123, 123, 123, .5);
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.steam-game-link {
+  min-height: 50px;
+}
+
+@media (max-width:400px) {
+  .steam-game-picture {
+    padding-left: 5px;
+  }
+
+  .steam-game-info {
+    margin: 10px 0;
+    padding: 85px 0 0 5px;
+  }
+}
+
+.steam-game-picture img {
+  border: 2px solid #7b7b7b;
+  border-radius: 20px 7px;
+}
+
+.steam-game-button {
+  color: #00b8ff !important;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition: all .5s;
+  transition: all .5s;
+  position: relative;
+}
+
+.steam-game-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  border: 1px solid rgba(123, 123, 123, .5);
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.steam-game-button:hover::before {
+  opacity: 0;
+  -webkit-transform: scale(1.2, 1.2);
+  transform: scale(1.2, 1.2);
+}
+
+.steam-game-button::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  background-color: rgba(255, 255, 255, .25);
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+  -webkit-transform: scale(.5, .5);
+  transform: scale(.5, .5);
+}
+
+.steam-game-button:hover::after {
+  opacity: 1;
+  -webkit-transform: scale(1, 1);
+  transform: scale(1, 1);
+}
+</style>
+<div>
+    <div id="steam-item1">
+        
+        <div class="steam-game-pagination">
+    <a class="steam-game-button steam-game-firstpage" href="javascript:;" target="_self" onclick="return false"> 首页</a>
+    <a class="steam-game-button steam-game-previouspage" href="javascript:;" target="_self" onclick="return false">上一页</a>
+    <span class="steam-game-pagenum">2 / 3</span>
+    <a class="steam-game-button steam-game-nextpage" href="javascript:;" target="_self" onclick="return false">下一页</a>
+    <a class="steam-game-button steam-game-lastpage" href="javascript:;" target="_self" onclick="return false">尾页</a>
+</div>    </div>
 </div>
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/haruto.model.json"},"display":{"position":"right","width":120,"height":260},"mobile":{"show":false},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
-</html></div><hr><div id="post-comment"><div class="comment-head"><div class="comment-headling"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div><div class="comment-switch"><span class="first-comment">Valine</span><label><input id="switch-comments-btn" type="checkbox"><span class="slider"></span></label><span class="second-comment">Gitalk</span></div></div><div class="comment-wrap"><div class="comments-items-1" data-name="Valine"><div class="vcomment" id="vcomment"></div><script>function loadvaline () {  
+<script>
+    Element.prototype.siblings = function () {
+    let siblingElement = [];
+    let sibs = this.parentNode.children;
+    for (let i = 0; i < sibs.length; i++) {
+        if (sibs[i] !== this) {
+            siblingElement.push(sibs[i]);
+        }
+    }
+    return siblingElement;
+};
+function tabClick() {
+    //修改标签样式
+    this.classList.add('steam-game-active');
+    let sibs = this.siblings();
+    for (let j = 0; j < sibs.length; j++) {
+        sibs[j].classList.remove('steam-game-active');
+    }
+    //显示对应板块
+    let itemId = this.id.replace('tab', 'item');
+    let target = document.getElementById(itemId);
+    target.classList.remove('steam-game-hide');
+    target.classList.add('steam-game-show');
+    sibs = document.getElementById(itemId).siblings();
+    for (let k = 0; k < sibs.length; k++) {
+        sibs[k].classList.remove('steam-game-show');
+        sibs[k].classList.add('steam-game-hide');
+    }
+}
+let tabs = document.getElementsByClassName("steam-game-tab");
+for (let i = 0; i < tabs.length; i++) {
+    tabs[i].onclick = tabClick;
+    tabs[i].onclick.apply(tabs[i]);
+}    var firstpages = document.getElementsByClassName("steam-game-firstpage");
+var previouspages = document.getElementsByClassName("steam-game-previouspage");
+var nextpages = document.getElementsByClassName("steam-game-nextpage");
+var lastpages = document.getElementsByClassName("steam-game-lastpage");
+var pagenums = document.getElementsByClassName("steam-game-pagenum");
+
+function makePageNum(num, arr) {
+    return (num + 1) + ' / ' + (Math.ceil(arr.length / 10 === 0 ? 1 : Math.ceil(arr.length / 10)));
+}
+
+function firstBtn() {
+    var sibs = this.parentNode.siblings();
+    displayPage(sibs, 0);
+    this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText = makePageNum(0, sibs);
+}
+
+function previousBtn() {
+    var sibs = this.parentNode.siblings();
+    var currNum = this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText;
+    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+    currNum = parseInt(currNum, 10) - 1;
+    if (currNum > 0) {
+        currNum--;
+    }
+    displayPage(sibs, currNum);
+    this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText = makePageNum(currNum, sibs);
+}
+
+function nextBtn() {
+    var sibs = this.parentNode.siblings();
+    var currNum = this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText;
+    currNum = currNum.substr(0, currNum.indexOf('/') - 1);
+    currNum = parseInt(currNum, 10) - 1;
+    if (currNum < Math.ceil(sibs.length / 10) - 1) {
+        currNum++;
+    }
+    displayPage(sibs, currNum);
+    this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText = makePageNum(currNum, sibs);
+}
+
+function lastBtn() {
+    var sibs = this.parentNode.siblings();
+    displayPage(sibs, Math.ceil(sibs.length / 10) - 1);
+    this.parentNode.getElementsByClassName('steam-game-pagenum')[0].innerText = makePageNum(Math.ceil(sibs.length / 10) - 1 === -1 ? 0 : Math.ceil(sibs.length / 10) - 1, sibs);
+}
+
+function displayPage(arr, num) {
+    for (var i = 0; i < arr.length; i++) {
+        if (Math.floor(i / 10) === num) {
+            arr[i].classList.remove('steam-game-hide');
+            var img = arr[i].getElementsByTagName('img')[0];
+            img.src = img.getAttribute('data-src');
+        } else {
+            arr[i].classList.add('steam-game-hide');
+        }
+    }
+}
+
+for (var i = 0; i < firstpages.length; i++) {
+
+    //add listener
+    firstpages[i].onclick = firstBtn;
+    previouspages[i].onclick = previousBtn;
+    nextpages[i].onclick = nextBtn;
+    lastpages[i].onclick = lastBtn;
+
+    //set page num
+    var size = pagenums[i].parentNode.siblings().length;
+    pagenums[i].innerText = '1 / ' + (Math.ceil(size / 10) === 0 ? 1 : Math.ceil(size / 10));
+    firstpages[i].click();
+}</script></div><hr><div id="post-comment"><div class="comment-head"><div class="comment-headling"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div><div class="comment-switch"><span class="first-comment">Valine</span><label><input id="switch-comments-btn" type="checkbox"><span class="slider"></span></label><span class="second-comment">Gitalk</span></div></div><div class="comment-wrap"><div class="comments-items-1" data-name="Valine"><div class="vcomment" id="vcomment"></div><script>function loadvaline () {  
   var requestSetting = function (from,set) {
     var from = from
     var setting = set.split(',').filter(function(item){
