@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yangchaoyi.vip/about/index.html</loc>
+    
+    <lastmod>2020-09-02T11:29:40.093Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yangchaoyi.vip/posts/20209023/</loc>
     
     <lastmod>2020-09-02T07:33:45.358Z</lastmod>
@@ -306,13 +313,6 @@
     <loc>https://yangchaoyi.vip/categories/index.html</loc>
     
     <lastmod>2020-05-06T02:01:06.893Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yangchaoyi.vip/about/index.html</loc>
-    
-    <lastmod>2020-04-23T06:31:02.851Z</lastmod>
     
   </url>
   
