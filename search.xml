@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>「网易互娱-CC直播事业群」秋招面试复盘总结</title>
+      <link href="/posts/2020923/"/>
+      <url>/posts/2020923/</url>
+      
+        <content type="html"><![CDATA[<h2 id="网易互娱-CC直播事业群面经"><a href="#网易互娱-CC直播事业群面经" class="headerlink" title="网易互娱-CC直播事业群面经"></a>网易互娱-CC直播事业群面经</h2><h3 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h3><p>9月11日晚7点进行了笔试，当时感觉难度有点大，共4道题，仅A了一道题，最后一题0%，另外两道过了一点样例。还在还是收到了面试邀请，9月23日下午5点开始了网易互娱一面。</p><h3 id="一面"><a href="#一面" class="headerlink" title="一面"></a>一面</h3><h4 id="面经"><a href="#面经" class="headerlink" title="面经"></a>面经</h4><p>1、自我介绍（提及了自己恒生实习经历和写博客习惯）<br>2、几乎全是聊实习经历，可能参考价值不大，但是分享一下相关项目经验的问题<br>3、你在实习角色是什么？有遇到什么问题吗？怎么解决的？<br>4、你说了跨域，那你知道复杂请求怎么处理的吗？<br>5、刚刚你说了预校验，那么怎么可以取消它呢？<br>6、你说了深拷贝，你是怎么做的？可以自己手动实现一个吗？对数组怎么做？<code>JSON.Parse(...)</code>这种方式有什么不好的地方，说一说？<br>7、项目中说使用了 <code>Vuex+SessionStorage</code>？为什么要这么做？（原本只是保存定了的数据字典）后续问我如果是动态的怎么存？<br>8、说说 <code>Cookie</code>、<code>SessionStorage</code>、<code>LocalStorage</code>的区别？<br>9、前端发 <code>ajax</code>请求，你是怎么封装的？（答了 <code>axios</code>）<br>10、那你知道请求那里的请求拦截吗？你知道怎么实现吗？<br>11、前端发起请求，如果请求失败了你怎么做呢？<br>12、你还有什么想问我的吗？</p><h4 id="感受"><a href="#感受" class="headerlink" title="感受"></a>感受</h4><p>问了部门是CC直播事业群，由于时间关系本次一面就26分钟左右，然后还问了校招流程是2轮技术面+1轮HR面。不过一面全程聊实习经历，感觉有些含含糊糊的，答的不是特别好。</p><h3 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h3><blockquote><p>待更新</p></blockquote><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><blockquote><p>待更新</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试整理 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> 秋招 </tag>
+            
+            <tag> 网易互娱 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>「JavaScript灵魂之问」前端知识梳理之 JS 篇（中秋特别篇）</title>
       <link href="/posts/2020922/"/>
       <url>/posts/2020922/</url>
