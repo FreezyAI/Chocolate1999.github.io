@@ -9,7 +9,7 @@ document.getElementById("go-up").innerHTML += top_up;
 
 
 // 气泡
-function qipao() {
+function bubble() {
   $('#page-header').circleMagic({
       radius: 10,
       density: .2,
@@ -54,9 +54,9 @@ function qipao() {
 }(jQuery);
 
 // 调用气泡方法
-qipao();
+bubble();
 
 /* xkTool */
-var xiaokang = new xkTool();
-xiaokang.footFish();
+var chocolate = new xkTool();
+chocolate.footFish();
 })
