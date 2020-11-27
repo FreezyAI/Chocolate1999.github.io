@@ -14,18 +14,18 @@ const catalogMagnet = new Vue({
 			"https://cdn.jsdelivr.net/gh/Zfour/zfe-2.0@1.12/images/cataimage/b6.jpg",
 			"https://cdn.jsdelivr.net/gh/Zfour/zfe-2.0@1.12/images/cataimage/b7.jpg",
 			"https://cdn.jsdelivr.net/gh/Zfour/zfe-2.0@1.12/images/cataimage/b8.jpg",
-
 		],
 		//这里是磁贴描述信息
 		describe:[
-			"日本早安新闻",
-			"vue学习记录",
-			"我的各种作品",
-			"我的学习整理",
-			"我的各种教程",
-			"我的游戏评测",
-			"生活点点滴滴",
-			"一切胡思乱想",
+			"HEXO搭建教程",
+			"我们的征途是星辰大海",
+			"前端学习记录",
+			"回顾过去",
+			"学习源码思想",
+			"算法灵魂之问",
+			"面试复盘总结",
+			"项目点点滴滴",
+			
 		],
 		//这里是磁贴的文字颜色
 		figLetColor: {color:'white'},
